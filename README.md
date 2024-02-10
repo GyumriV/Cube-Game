@@ -1,6 +1,6 @@
-#Cube Game
+# Cube Game
 
-#Description
+## Description
 In this game you are a cube with the objective of reaching the end of the level without hitting obstacles or falling off the edge.
 
 I decided to make this game because I enjoy Video Games and wanted to make one of my own. Through research I found that the Unity Game Engine is a 
@@ -8,20 +8,20 @@ great tool for beginners who want to get hands on experiance with game developme
 
 I hope you like it!
 
-#Requirements
+## Requirements
 Windows OS
 
-#How to install and run Cube Game
+## How to install and run Cube Game
 
 go into the Cube Game repo and download the zip.
 run the executable in CubeGame > CubeGame.exe
 
-#Controls
+## Controls
 
 Press the 'A' key to go left
 Press the 'B' key to go right
 
 To quit the game there is a button "Quit" in the start menu as well when you beat the game.
-I have not implemented a pause screen yet, so if you would like to quit while playing then simply press (alt + f4).
+You may also hit the "alt + f4" command.
 
-P.S. I know the last level is frustrating but I promise it is beatable. Good luck!
+P.S. I know the last level is difficult but I promise it is beatable. Good luck!
